@@ -3,7 +3,18 @@
  "beans": [],
  "brews": [],
  "deleted": {},
- "grinders": [],
+ "grinders": [
+  {
+   "burr": "conical",
+   "clicks": 90,
+   "created": 1792507037481,
+   "id": "mvgseq09z7wc79",
+   "name": "1Zpresso ZP6 Special",
+   "step": 1,
+   "type": "manual",
+   "updated": 1792507037481
+  }
+ ],
  "lists": {
   "flavors": {},
   "processes": [],
