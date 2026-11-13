@@ -38,6 +38,46 @@
    "updated": 1794580451706,
    "variety": "",
    "washStation": ""
+  },
+  {
+   "altFrom": "",
+   "altTo": "",
+   "altUnit": "m",
+   "bestBefore": "2028-12-08",
+   "country": "Nicaragua",
+   "countryCode": "NIC",
+   "created": 1794582287875,
+   "dateType": "ordered",
+   "farm": "",
+   "finished": false,
+   "finishedAt": null,
+   "grams": 283,
+   "harvestDate": "",
+   "id": "mwf3yjgjatod8r",
+   "name": "Vanilla Flavoured Blend",
+   "notes": [
+    {
+     "c": "Sweet",
+     "n": "Vanilla"
+    },
+    {
+     "c": "Sweet",
+     "n": "Madagascar vanilla"
+    },
+    {
+     "c": "Sweet",
+     "n": "French vanilla"
+    }
+   ],
+   "photo": "f398804c1ba18d591f513c7c13e259a58695db91",
+   "process": "",
+   "producer": "Chamberlain Coffee",
+   "region": "",
+   "roast": "medium",
+   "roastDate": "2026-10-13",
+   "updated": 1794582287875,
+   "variety": "Arabica",
+   "washStation": ""
   }
  ],
  "brews": [],
@@ -59,6 +99,10 @@
    "Other": [
     "Bright",
     "Smooth"
+   ],
+   "Sweet": [
+    "French vanilla",
+    "Madagascar vanilla"
    ]
   },
   "processes": [],
