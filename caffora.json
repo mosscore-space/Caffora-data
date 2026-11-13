@@ -1,6 +1,45 @@
 {
  "app": "caffora",
- "beans": [],
+ "beans": [
+  {
+   "altFrom": 1400,
+   "altTo": "",
+   "altUnit": "m",
+   "country": "Honduras",
+   "countryCode": "HND",
+   "created": 1794580451706,
+   "farm": "Finca La Unica",
+   "finished": false,
+   "finishedAt": null,
+   "grams": 340,
+   "harvestDate": "",
+   "id": "mwf2v6nufke234",
+   "name": "Left Behind",
+   "notes": [
+    {
+     "c": "Nutty / Cocoa",
+     "n": "Chocolate"
+    },
+    {
+     "c": "Other",
+     "n": "Smooth"
+    },
+    {
+     "c": "Other",
+     "n": "Bright"
+    }
+   ],
+   "photo": "cec77162a922447419914e0b11c7650eb80f43e2",
+   "process": "Honey",
+   "producer": "Leticia Lopez Hutchins",
+   "region": "Copán",
+   "roast": "medium",
+   "roastDate": "2026-10-19",
+   "updated": 1794580451706,
+   "variety": "",
+   "washStation": ""
+  }
+ ],
  "brews": [],
  "deleted": {},
  "grinders": [
@@ -16,7 +55,12 @@
   }
  ],
  "lists": {
-  "flavors": {},
+  "flavors": {
+   "Other": [
+    "Bright",
+    "Smooth"
+   ]
+  },
   "processes": [],
   "varieties": []
  },
