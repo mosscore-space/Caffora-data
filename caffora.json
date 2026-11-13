@@ -43,9 +43,11 @@
    "altFrom": "",
    "altTo": "",
    "altUnit": "m",
+   "bestBefore": "2028-12-08",
    "country": "Nicaragua",
    "countryCode": "NIC",
    "created": 1794582287875,
+   "dateType": "ordered",
    "farm": "",
    "finished": false,
    "finishedAt": null,
@@ -78,8 +80,34 @@
    "washStation": ""
   }
  ],
- "brews": [],
- "deleted": {},
+ "brews": [
+  {
+   "accuracy": 2,
+   "beanId": "mwf3yjgjatod8r",
+   "created": 1794588899150,
+   "date": "2026-11-13",
+   "dose": 15,
+   "grind": 65,
+   "grinderId": "mvgseq09z7wc79",
+   "id": "mwf7w8r2h6xa2o",
+   "methodId": "v60",
+   "rating": 3,
+   "sensory": {
+    "acidity": 1,
+    "aroma": 9,
+    "bitterness": 0,
+    "body": 2,
+    "sweetness": 3
+   },
+   "temp": 90,
+   "time": 6600,
+   "updated": 1794589278195,
+   "water": 245.1
+  }
+ ],
+ "deleted": {
+  "brews:mwf8u93vfym4l4": 1794590528339
+ },
  "grinders": [
   {
    "burr": "conical",
