@@ -110,7 +110,7 @@
    "beanId": "mwf2v6nufke234",
    "created": 1794755560394,
    "date": "2026-11-15",
-   "dose": 18,
+   "dose": 15,
    "grind": 55,
    "grinderId": "mvgseq09z7wc79",
    "id": "mwhz4de29ag4n3",
@@ -126,7 +126,7 @@
    "stage": "done",
    "temp": 93,
    "time": 8100,
-   "updated": 1794756514529,
+   "updated": 1794756597138,
    "water": 241.3
   }
  ],
