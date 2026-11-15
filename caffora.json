@@ -123,11 +123,11 @@
     "body": 0,
     "sweetness": 0
    },
-   "stage": "logged",
+   "stage": "timed",
    "temp": 93,
-   "time": 0,
-   "updated": 1794755560394,
-   "water": null
+   "time": 8100,
+   "updated": 1794755879581,
+   "water": 241.3
   }
  ],
  "deleted": {
