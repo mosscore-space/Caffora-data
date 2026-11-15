@@ -106,7 +106,7 @@
    "water": 245.1
   },
   {
-   "accuracy": 0,
+   "accuracy": 3.5,
    "beanId": "mwf2v6nufke234",
    "created": 1794755560394,
    "date": "2026-11-15",
@@ -115,18 +115,18 @@
    "grinderId": "mvgseq09z7wc79",
    "id": "mwhz4de29ag4n3",
    "methodId": "v60",
-   "rating": 0,
+   "rating": 3.5,
    "sensory": {
-    "acidity": 0,
-    "aroma": 0,
-    "bitterness": 0,
-    "body": 0,
-    "sweetness": 0
+    "acidity": 6,
+    "aroma": 6,
+    "bitterness": 2,
+    "body": 5,
+    "sweetness": 6
    },
-   "stage": "timed",
+   "stage": "done",
    "temp": 93,
    "time": 8100,
-   "updated": 1794755879581,
+   "updated": 1794756106482,
    "water": 241.3
   }
  ],
