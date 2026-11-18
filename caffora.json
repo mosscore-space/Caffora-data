@@ -178,7 +178,7 @@
    "water": 242
   },
   {
-   "accuracy": 0,
+   "accuracy": 0.5,
    "beanId": "mwf2v6nufke234",
    "created": 1794998135977,
    "date": "2026-11-18",
@@ -187,7 +187,7 @@
    "grinderId": "mvgseq09z7wc79",
    "id": "mwlzjlwpf6wsie",
    "methodId": "v60",
-   "rating": 0,
+   "rating": 0.5,
    "sensory": {
     "acidity": 0,
     "aroma": 0,
@@ -195,10 +195,10 @@
     "body": 0,
     "sweetness": 0
    },
-   "stage": "timed",
+   "stage": "done",
    "temp": 94,
    "time": 6300,
-   "updated": 1794998502334,
+   "updated": 1794998513927,
    "water": 243
   }
  ],
