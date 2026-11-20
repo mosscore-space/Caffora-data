@@ -215,12 +215,13 @@
     "aroma": 6,
     "bitterness": 2,
     "body": 3,
+    "sourness": 9,
     "sweetness": 2
    },
    "stage": "done",
    "temp": 94,
    "time": 8400,
-   "updated": 1794999210603,
+   "updated": 1795181532329,
    "water": 242
   },
   {
