@@ -224,6 +224,30 @@
    "time": 8400,
    "updated": 1794999210603,
    "water": 242
+  },
+  {
+   "accuracy": 0,
+   "beanId": "mwf2v6nufke234",
+   "created": 1795176906848,
+   "date": "2026-11-20",
+   "dose": 15,
+   "grind": 50,
+   "grinderId": "mvgseq09z7wc79",
+   "id": "mwoxzae82qz1uj",
+   "methodId": "v60",
+   "rating": 0,
+   "sensory": {
+    "acidity": 0,
+    "aroma": 0,
+    "bitterness": 0,
+    "body": 0,
+    "sweetness": 0
+   },
+   "stage": "logged",
+   "temp": 90,
+   "time": 0,
+   "updated": 1795176906848,
+   "water": null
   }
  ],
  "deleted": {
