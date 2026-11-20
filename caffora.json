@@ -190,16 +190,17 @@
    "methodId": "v60",
    "rating": 0.5,
    "sensory": {
-    "acidity": 0,
+    "acidity": 1,
     "aroma": 0,
     "bitterness": 0,
-    "body": 0,
+    "body": 1,
+    "sourness": 10,
     "sweetness": 0
    },
    "stage": "done",
    "temp": 94,
    "time": 6300,
-   "updated": 1794998513927,
+   "updated": 1795181630197,
    "water": 243
   },
   {
