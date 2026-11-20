@@ -43,11 +43,9 @@
    "altFrom": "",
    "altTo": "",
    "altUnit": "m",
-   "bestBefore": "2028-12-08",
    "country": "Nicaragua",
    "countryCode": "NIC",
    "created": 1794582287875,
-   "dateType": "ordered",
    "farm": "",
    "finished": false,
    "finishedAt": null,
@@ -251,7 +249,8 @@
   }
  ],
  "deleted": {
-  "brews:mwf8u93vfym4l4": 1794590528339
+  "brews:mwf8u93vfym4l4": 1794590528339,
+  "brews:mwoyuzivzgc369": 1795178400089
  },
  "grinders": [
   {
