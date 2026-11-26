@@ -263,7 +263,7 @@
    "grinderId": "mvgseq09z7wc79",
    "id": "mwx7feyzwg9nyq",
    "methodId": "v60",
-   "rating": 2.5,
+   "rating": 2,
    "sensory": {
     "acidity": 5,
     "aroma": 7,
@@ -275,7 +275,7 @@
    "stage": "done",
    "temp": 94,
    "time": 8400,
-   "updated": 1795677144831,
+   "updated": 1795677154201,
    "water": 256.5
   }
  ],
