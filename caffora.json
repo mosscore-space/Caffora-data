@@ -43,9 +43,11 @@
    "altFrom": "",
    "altTo": "",
    "altUnit": "m",
+   "bestBefore": "2028-12-08",
    "country": "Nicaragua",
    "countryCode": "NIC",
    "created": 1794582287875,
+   "dateType": "ordered",
    "farm": "",
    "finished": false,
    "finishedAt": null,
@@ -272,11 +274,11 @@
     "sourness": 0,
     "sweetness": 0
    },
-   "stage": "logged",
+   "stage": "timed",
    "temp": 94,
-   "time": 0,
-   "updated": 1795676505227,
-   "water": null
+   "time": 8400,
+   "updated": 1795676889165,
+   "water": 256.5
   }
  ],
  "deleted": {
